@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patients>
+    <patient>
+        <ID>24556</ID>
+        <name>Kiss Pista</name>
+        <birthYear>1958</birthYear>
+        <bloodType>0-</bloodType>
+        <checkInDate>2022-05-04</checkInDate>
+        <disease>Artériás vérzés</disease>
+    </patient>
+    <patient>
+        <ID>32504</ID>
+        <name>Nagy Gábor</name>
+        <birthYear>1998</birthYear>
+        <bloodType>A+</bloodType>
+        <checkInDate>2022-05-12</checkInDate>
+        <disease>Hányinger</disease>
+        <disease>Fejfájás</disease>
+    </patient>
+</patients>
